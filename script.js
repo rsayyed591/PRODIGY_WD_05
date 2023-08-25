@@ -1,8 +1,8 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '570b86dafdmsh0d1e1c3b0b6d501p12db1bjsnd77068d5011b',
-		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+		'X-RapidAPI-Key': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+		'X-RapidAPI-Host': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 	}
 };
 const formatUnixTimestamp = (timestamp) => {
